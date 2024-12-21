@@ -6,7 +6,7 @@ function displayTime() {
 
     let date = new Date();
 
-    // Getting Hour, mins secs from date
+    
 
     let hh = date.getHours();
     let mm = date.getMinutes();
